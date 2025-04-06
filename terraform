@@ -1,0 +1,27 @@
+provider "aws" {
+  region = "us-east-1"
+}
+
+provider "azurerm" {
+  features {}
+}
+
+provider "google" {
+  project = "my-project"
+  region  = "us-central1"
+}
+
+resource "aws_instance" "web" {
+  ami           = "ami-123456"
+  instance_type = "t2.micro"
+}
+
+resource "azurerm_linux_virtual_machine" "example" {
+  name                = "example-machine"
+  resource_group_name = "example-resources"
+  location            = "West Europe"
+  size                = "Standard_DS1_v2"
+  admin_username      = "adminuser"
+  admin_password      = "P@ssw0rd1234!"
+  network_interface_ids = [azurerm_network_interface.example.id]
+}
