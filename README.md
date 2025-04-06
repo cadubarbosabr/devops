@@ -11,7 +11,8 @@ Tecnologia Legada: COBOL com banco de dados DB2.
 
 Solução Substituta: Plataforma baseada em microserviços utilizando Java (Spring Boot) e Node.js.
 
-Justificativa:
+´Justificativa:´
+
 Escalabilidade: A arquitetura de microserviços permite que diferentes partes do sistema sejam escaladas independentemente, melhorando a performance durante picos de demanda.
 
 Agilidade: Facilita a implementação de novas funcionalidades e a integração com insurtechs e parceiros.
