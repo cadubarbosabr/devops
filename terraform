@@ -2,7 +2,7 @@ provider "vercel" {
   token = var.vercel_token
 }
 
-resource "vercel_project" "DevOps-4GTIR-FIAP" {
+resource "vercel_project" "DevOps" {
   name = "xrsmart-app"
   framework = "nextjs" # ou outro framework que você esteja usando
   git {
