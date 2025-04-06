@@ -8,6 +8,7 @@ Sistemas a Serem Modernizados
 
 # 1. Sistema de Gestão de Sinistros
 Tecnologia Legada: COBOL com banco de dados DB2.
+
 Solução Substituta: Plataforma baseada em microserviços utilizando Java (Spring Boot) e Node.js.
 
 Justificativa:
