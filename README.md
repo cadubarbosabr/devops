@@ -11,7 +11,7 @@ Tecnologia Legada: COBOL com banco de dados DB2.
 
 Solução Substituta: Plataforma baseada em microserviços utilizando Java (Spring Boot) e Node.js.
 
-'Justificativa:'
+Justificativa:
 
 Escalabilidade: A arquitetura de microserviços permite que diferentes partes do sistema sejam escaladas independentemente, melhorando a performance durante picos de demanda.
 
@@ -25,6 +25,7 @@ Tecnologia Legada: Visual Basic 6.0 com Microsoft Access.
 Solução Substituta: Aplicação web responsiva desenvolvida com React e Spring Boot.
 
 Justificativa:
+
 Experiência do Usuário: Interfaces modernas melhoram a usabilidade e a satisfação do cliente.
 
 Acessibilidade: A aplicação web pode ser acessada de qualquer dispositivo, aumentando a flexibilidade para os usuários.
@@ -50,6 +51,7 @@ Tecnologia Legada: Crystal Reports com SQL Server.
 Solução Substituta: Tableau ou Power BI para visualização de dados.
 
 Justificativa:
+
 Interatividade: Ferramentas modernas oferecem visualizações interativas e dashboards em tempo real.
 
 Facilidade de Uso: Usuários não técnicos podem criar relatórios e análises sem depender de TI.
@@ -62,6 +64,7 @@ Tecnologia Legada: FoxPro.
 Solução Substituta: PostgreSQL para dados estruturados e MongoDB para dados não estruturados.
 
 Justificativa:
+
 Flexibilidade: PostgreSQL oferece robustez e suporte a dados complexos, enquanto MongoDB permite a manipulação de dados não estruturados.
 
 Custo: Ambas as soluções são open source, reduzindo custos de licenciamento.
@@ -74,6 +77,7 @@ Tecnologia Legada: Nagios com scripts personalizados em Perl.
 Solução Substituta: Prometheus e Grafana para monitoramento e visualização de métricas.
 
 Justificativa:
+
 Observabilidade: Permite monitorar a saúde dos serviços em tempo real, identificando problemas antes que afetem os usuários.
 
 Customização: Grafana oferece dashboards personalizáveis, permitindo que as equipes visualizem dados relevantes para suas operações.
@@ -86,6 +90,7 @@ Tecnologia Legada: Mainframe com CICS.
 Solução Substituta: Plataforma de pagamentos baseada em Stripe ou PayPal.
 
 Justificativa:
+
 Agilidade: Soluções modernas oferecem integração rápida e fácil com APIs.
 
 Segurança: Provedores de pagamento modernos garantem conformidade com padrões de segurança.
@@ -98,6 +103,7 @@ Tecnologia Legada: SharePoint 2007.
 Solução Substituta: Google Workspace ou Microsoft 365.
 
 Justificativa:
+
 Colaboração: Ferramentas modernas permitem colaboração em tempo real e acesso fácil a documentos.
 
 Integração: Integração com outras ferramentas e serviços, facilitando o fluxo de trabalho.
