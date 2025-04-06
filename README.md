@@ -68,7 +68,8 @@ Justificativa:
 Agilidade: Soluções modernas oferecem integração rápida e fácil com APIs.
 Segurança: Provedores de pagamento modernos garantem conformidade com padrões de segurança.
 Escalabilidade: Capacidade de lidar com um grande volume de transações sem comprometer a performance.
-8. Sistema de Gestão de Documentos
+
+# 8. Sistema de Gestão de Documentos
 Tecnologia Legada: SharePoint 2007.
 Solução Substituta: Google Workspace ou Microsoft 365.
 
