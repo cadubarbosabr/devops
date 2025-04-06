@@ -109,3 +109,58 @@ Colaboração: Ferramentas modernas permitem colaboração em tempo real e acess
 Integração: Integração com outras ferramentas e serviços, facilitando o fluxo de trabalho.
 
 Acessibilidade: Acesso em qualquer lugar e a qualquer momento, aumentando a produtividade.
+
+
+
+# Canvas de Modelo de Negócio da XRSmart
+
+## Parceiros-Chave
+- **Insurtechs:** Para inovação em produtos e serviços.
+- **Bancos:** Para integração financeira e soluções de pagamento.
+- **Provedores de Tecnologia Cloud:** AWS, Azure e Google Cloud para infraestrutura.
+- **Consultorias de TI:** Para suporte na implementação e transformação digital.
+- **Empresas de Cibersegurança:** Para garantir a segurança dos dados e conformidade regulatória.
+
+## Atividades-Chave
+- Desenvolvimento de APIs para integração com parceiros.
+- Automação de processos de subscrição e sinistros.
+- Análise preditiva de riscos e comportamento do cliente.
+- Monitoramento contínuo de segurança e performance.
+
+## Recursos-Chave
+- Plataforma de integração (API Gateway).
+- Data Lake para análise preditiva.
+- Infraestrutura cloud híbrida.
+- Equipe especializada em DevOps e integrações.
+
+## Proposta de Valor
+- Experiência digital fluida e personalizada para clientes.
+- Processamento ágil e eficiente de sinistros.
+- Segurança e conformidade regulatória.
+- Ecossistema aberto para parceiros e inovação contínua.
+
+## Relacionamento com Clientes
+- Portal de autoatendimento e suporte.
+- Chatbots e assistentes virtuais.
+- Aplicativo móvel intuitivo e responsivo.
+
+## Canais
+- Plataforma digital própria.
+- APIs para parceiros.
+- Aplicativo móvel.
+- Corretores digitais.
+
+## Segmentos de Clientes
+- Segurados individuais e empresariais.
+- Corretores e parceiros de distribuição.
+
+## Estrutura de Custos
+- Infraestrutura cloud.
+- Desenvolvimento e manutenção de software.
+- Licenças de ferramentas DevOps.
+- Equipe especializada.
+
+## Fontes de Receita
+- Prêmios de seguros.
+- Taxas de API para parceiros.
+- Serviços de análise de dados.
